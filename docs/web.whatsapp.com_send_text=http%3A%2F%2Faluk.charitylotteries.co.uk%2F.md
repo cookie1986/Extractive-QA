@@ -1,0 +1,3 @@
+
+WhatsApp Web![WhatsApp](/img/logo-whatsapp-afe5ec49.png)WhatsApp Web# Browser not supported
+We recommend using WhatsApp with one of the following browsers:[![](/img/logo-chrome-537b698c.png)](http://www.google.com/chrome/) [Google Chrome](http://www.google.com/chrome/)[![](/img/logo-firefox-44f66fd9.png)](http://www.firefox.com) [Mozilla Firefox](http://www.firefox.com)[![](/img/logo-edge-3f865fd8.png)](https://www.microsoft.com/edge) [Microsoft Edge](https://www.microsoft.com/edge)WhatsApp also supports:[![](/img/logo-opera-b5cc1256.png)](http://www.opera.com) [Opera](http://www.opera.com)[![](/img/logo-safari-e44d1acf.png)](https://support.apple.com/downloads/#safari) [Safari (macOS 11+ Only)](https://support.apple.com/downloads/#safari)

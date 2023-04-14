@@ -1,0 +1,7 @@
+venv/
+notes.txt
+.env
+.ipynb_checkpoints/
+test_docs/
+__pycache__/
+.DS_Store

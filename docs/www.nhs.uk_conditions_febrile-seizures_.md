@@ -1,0 +1,105 @@
+
+Febrile seizures
+ - NHS
+[Skip to main content](#maincontent)
+Search the NHS website
+Search
+* [Health A-Z](/conditions/)
+* [NHS services](/nhs-services/)
+* [Live Well](/live-well/)
+* [Mental health](/mental-health/)
+* [Care and support](/conditions/social-care-and-support-guide/)
+* [Pregnancy](/pregnancy/)
+* [Home](/)
+* [NHS services](/nhs-services/)
+* Browse
+ More
+1. [Home](/)
+2. [Health A to Z](/conditions/)
+[Back to 
+ Health A to Z](/conditions/) 
+# Febrile seizures
+**Febrile seizures (febrile convulsions) are fits that can happen when a child has a fever. They most often happen between the ages of 6 months and 3 years.**
+It can be frightening and distressing to see your child having a seizure, particularly if it's their first seizure.
+However, these seizures are usually harmless and almost all children make a complete recovery afterwards.
+As a precaution, you may still need to take your child to the nearest hospital or [call 999](Tel: 999) and ask for an ambulance. See [What to do during a seizure](/conditions/febrile-seizures#what-to-do-during-a-febrile-seizure).
+## Signs of a febrile seizure
+A febrile seizure usually lasts for less than 5 minutes. Your child will:
+* become stiff and their arms and legs may begin to twitch
+* lose consciousness and may wet or soil themselves
+They may also be sick and foam at the mouth, and their eyes may roll back.
+After the seizure, your child may be sleepy for up to an hour. A straightforward febrile seizure like this will only happen once during your child's illness.
+Occasionally, febrile seizures can last longer than 15 minutes and symptoms may only affect one area of your child's body.
+These are known as complex febrile seizures. These seizures sometimes happen again within 24 hours or during the period in which your child is ill.
+## What to do during a febrile seizure
+If your child is having a febrile seizure, place them in the [recovery position](/conditions/first-aid/recovery-position/). Stay with your child and try to make a note of how long the seizure lasts.
+Do not put anything into your child's mouth during a seizure – including medicine – as there's a slight chance they might bite their tongue.
+Take your child to the [nearest hospital](/Service-Search/Hospital/LocationSearch/7/Hospitals) or [call 999](Tel: 999) and ask for an ambulance if:
+* your child is having a seizure for the first time
+* the seizure lasts longer than 5 minutes and shows no signs of stopping
+* you suspect the seizure is being caused by another serious illness – for example, meningitis
+* your child is having breathing difficulties
+While it's unlikely that there's anything seriously wrong, it's important to get your child checked.
+If your child has had febrile seizures before and the seizure lasts for less than 5 minutes, call a GP, use [NHS 111](https://111.nhs.uk/?utm_source=nhsuk&utm_campaign=nhs_services&utm_content=nhs_111) or [call 111](Tel: 111) for advice.
+You should also contact a GP or [NHS 111](https://111.nhs.uk/?utm_source=nhsuk&utm_campaign=nhs_services&utm_content=nhs_111) if you think your child is showing [signs and symptoms of dehydration](/conditions/dehydration/symptoms/) (a lack of fluid in the body).
+## Seeing a doctor
+Febrile seizures can often be diagnosed from a description of what happened. It's unlikely that a doctor will see the seizure happening, so it's useful to note:
+* how long the seizure lasted
+* what happened, such as body stiffening, twitching of the face, arms and legs, staring, and loss of consciousness
+* whether your child recovered within 1 hour
+* whether they've had a seizure before
+Further tests, such as a [blood test](/conditions/blood-tests/) or urine test, may be needed if the cause of your child's illness is not clear.
+It can sometimes be difficult to get a urine sample from young children, so it may have to be done in hospital.
+Further testing and observation in hospital is also usually recommended if your child's symptoms are unusual or they're having complex febrile seizures, particularly if they're younger than 12 months old.
+The tests that may be recommended include:
+* an [electroencephalogram (EEG)](/conditions/electroencephalogram/), which measures your child's electrical brain activity by placing electrodes on their scalp. Unusual patterns of brain activity can sometimes indicate [epilepsy](/conditions/epilepsy/).
+* a [lumbar puncture](/conditions/lumbar-puncture/), where a small sample of cerebrospinal fluid (CSF) is removed from the spine for testing. CSF is a clear fluid that surrounds and protects the brain and spinal cord. A lumbar puncture can be used to determine whether your child has an infection of the brain or nervous system.
+## Causes of febrile seizures
+The cause of febrile seizures is unknown, although they're linked to the start of a high temperature (fever).
+There may also be a genetic link to febrile seizures, as the chances of having a seizure are increased if a close family member has a history of them.
+In most cases, the child's high temperature is caused by an infection. Common examples are [chickenpox](/conditions/chickenpox/), [flu](/conditions/flu/), a [middle ear infection](/conditions/ear-infections/) or [tonsillitis](/conditions/tonsillitis/).  
+In very rare cases, febrile seizures can happen after a child has a vaccination.
+## Recurring febrile seizures
+About 1 in 3 children who have had a febrile seizure will have another seizure during a subsequent infection. This often happens within a year of the first one.
+Recurrence is more likely if:
+* the first febrile seizure happened before your child was 18 months old
+* there's a history of seizures or [epilepsy](/conditions/epilepsy/) in your family
+* before having their first seizure, your child had a fever that lasted less than an hour or their temperature was under 40C
+* your child previously had a complex febrile seizure (more than one seizure during their illness)
+* your child attends a day care nursery – this increases their chances of developing common childhood infections, such as the [flu](/conditions/flu/) or [chickenpox](/conditions/chickenpox/)
+It's not recommended that your child is given a prescription of regular medicines to prevent further febrile seizures. This is because the adverse side effects associated with many medicines outweigh any risks of the seizures themselves.
+Research has shown the use of medicines to control high temperatures is not likely to prevent further febrile seizures.
+However, a specialist may sometimes recommend medicine such as midazolam or [diazepam](/medicines/diazepam/) to treat seizures when they happen.
+Children who've had a febrile seizure after a routine [vaccination](/conditions/vaccinations/) – which is very rare – are no more at risk of having another seizure than children who had a seizure because of illness.
+## Complications of febrile seizures
+Febrile seizures have been linked to an increased risk of [epilepsy](/conditions/epilepsy/).
+Many parents worry that if their child has one or more febrile seizures, they'll develop epilepsy when they get older. Epilepsy is a condition where a person has repeated seizures without a fever.
+While it's true that children who have a history of febrile seizures have an increased risk of developing epilepsy, it should be stressed that the risk is still small.
+It's estimated that children with a history of simple febrile seizures have a 1 in 50 chance of developing epilepsy in later life.
+Children with a history of complex febrile seizures have a 1 in 20 chance of developing epilepsy in later life.
+People who have not had febrile seizures have around a 1 to 2 in 100 chance of developing epilepsy.
+ Page last reviewed: 26 November 2019  
+ Next review due: 26 November 2022
+ 
+## Support links
+* [Home](/)
+* [Health A to Z](/conditions/)
+* [Live Well](/live-well/)
+* [Mental health](/mental-health/)
+* [Care and support](/conditions/social-care-and-support-guide/)
+* [Pregnancy](/pregnancy/)
+* [NHS services](/nhs-services/)
+* [Coronavirus (COVID-19)](/conditions/coronavirus-covid-19/)
+* [NHS App](/nhs-app/)
+* [Find my NHS number](/nhs-services/online-services/find-nhs-number/)
+* [Your health records](/using-the-nhs/about-the-nhs/your-health-records/)
+* [About the NHS](/using-the-nhs/about-the-nhs/)
+* [Healthcare abroad](/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/)
+* [Contact us](/contact-us/)
+* [Other NHS websites](/nhs-sites/)
+* [Profile editor login](/our-policies/profile-editor-login/)
+* [About us](/about-us/)
+* [Accessibility statement](/accessibility-statement/)
+* [Our policies](/our-policies/)
+* [Cookies](/our-policies/cookies-policy/)
+© Crown copyright

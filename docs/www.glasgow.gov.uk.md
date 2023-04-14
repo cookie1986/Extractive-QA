@@ -1,0 +1,160 @@
+
+
+ Homepage of Glasgow City Council - Glasgow City Council
+ 
+[Skip to content](https://www.glasgow.gov.uk/index.aspx?articleid=15884#skiptocontent)
+[![Glasgow City Council](https://www.glasgow.gov.uk/media/image/g/1/GlasgowMark2021_20mm_WhiteStroke_RGB.jpg)](https://www.glasgow.gov.uk/index.aspx?articleid=15884 "link to homepage")
+* [![Support for Glasgow](https://www.glasgow.gov.uk/media/image/b/i/support_banner.png)](https://www.glasgow.gov.uk/index.aspx?articleid=29855 "Support for People in Glasgow")
+* [![Find a career for Life](https://www.glasgow.gov.uk/media/image/g/k/Homecare_Recruitment_Banner_01_-_1020_x_400px.jpg)](https://www.glasgow.gov.uk/index.aspx?articleid=30014 "Working in Care Services as a Home Carer")
+* [Pay It](https://www.glasgow.gov.uk/index.aspx?articleid=25794)
+![](https://www.glasgow.gov.uk/media/image/p/l/MakeAPaymentIcon.png)
+* [MyGlasgowCC](https://www.glasgow.gov.uk/index.aspx?articleid=26289)
+![](https://www.glasgow.gov.uk/media/image/4/c/Untitled_Artwork-2.png)
+* [School Term Dates](https://www.glasgow.gov.uk/index.aspx?articleid=17024)
+![](https://www.glasgow.gov.uk/media/image/q/l/SchholTermDatesIcon.png)
+## 
+[Council Tax/Benefits](https://www.glasgow.gov.uk/index.aspx?articleid=15892)
+icon for Council Tax/Benefits
+* [Council Tax](https://www.glasgow.gov.uk/index.aspx?articleid=17021)
+* [Benefits](https://www.glasgow.gov.uk/index.aspx?articleid=27758)
+* [Scottish Welfare Fund](https://www.glasgow.gov.uk/index.aspx?articleid=17160)
+* [More from Council Tax/Benefits](https://www.glasgow.gov.uk/index.aspx?articleid=15892)
+## 
+[Bins and Recycling](https://www.glasgow.gov.uk/index.aspx?articleid=15893)
+icon for Bins and Recycling
+* [Collection of Bulky Waste Items](https://www.glasgow.gov.uk/index.aspx?articleid=20828)
+* [Report a Missed Bin Collection](https://www.glasgow.gov.uk/index.aspx?articleid=16568)
+* [Collection Days](https://www.glasgow.gov.uk/index.aspx?articleid=16567)
+* [More from Bins and Recycling](https://www.glasgow.gov.uk/index.aspx?articleid=15893)
+## 
+[Schools and Learning](https://www.glasgow.gov.uk/index.aspx?articleid=15894)
+icon for Schools and Learning
+* [Coronavirus (COVID-19) Advice & Guidance for Schools: August 2021 - June 2022](https://www.glasgow.gov.uk/index.aspx?articleid=26214)
+* [Grants and Allowances](https://www.glasgow.gov.uk/index.aspx?articleid=17519)
+* [Fuel Zone (School Meals)](https://www.glasgow.gov.uk/index.aspx?articleid=26949)
+* [More from Schools and Learning](https://www.glasgow.gov.uk/index.aspx?articleid=15894)
+## 
+[My Council](https://www.glasgow.gov.uk/index.aspx?articleid=15902)
+icon for My Council
+* [Elections and Voting](https://www.glasgow.gov.uk/index.aspx?articleid=15919)
+* [Vacancies](https://www.glasgow.gov.uk/index.aspx?articleid=22983)
+* [MyGlasgowCC](https://www.glasgow.gov.uk/index.aspx?articleid=26289)
+* [More from My Council](https://www.glasgow.gov.uk/index.aspx?articleid=15902)
+## 
+[Roads and Parking](https://www.glasgow.gov.uk/index.aspx?articleid=15895)
+icon for Roads and Parking
+* [Report Road Faults](https://www.glasgow.gov.uk/index.aspx?articleid=22815)
+* [Report Lighting Faults](https://www.glasgow.gov.uk/index.aspx?articleid=22816)
+* [Pay or Appeal a Parking Ticket or Bus Lane Charge Notice](https://www.glasgow.gov.uk/index.aspx?articleid=22989)
+* [More from Roads and Parking](https://www.glasgow.gov.uk/index.aspx?articleid=15895)
+## 
+[Business](https://www.glasgow.gov.uk/index.aspx?articleid=15896)
+icon for Business
+* [Business Support](https://www.glasgow.gov.uk/index.aspx?articleid=16014)
+* [Licences](https://www.glasgow.gov.uk/index.aspx?articleid=17607)
+* [Non Domestic Rates](https://www.glasgow.gov.uk/index.aspx?articleid=17154)
+* [More from Business](https://www.glasgow.gov.uk/index.aspx?articleid=15896)
+## 
+[Planning and Building](https://www.glasgow.gov.uk/index.aspx?articleid=15897)
+icon for Planning and Building
+* [Planning Applications and Guidance](https://www.glasgow.gov.uk/index.aspx?articleid=16170)
+* [Building Standards and Public Safety](https://www.glasgow.gov.uk/index.aspx?articleid=16171)
+* [Development Plans](https://www.glasgow.gov.uk/index.aspx?articleid=16184)
+* [More from Planning and Building](https://www.glasgow.gov.uk/index.aspx?articleid=15897)
+## 
+[Registrars](https://www.glasgow.gov.uk/index.aspx?articleid=15898)
+icon for Registrars
+* [Marriage](https://www.glasgow.gov.uk/index.aspx?articleid=17037)
+* [Registering a Birth](https://www.glasgow.gov.uk/index.aspx?articleid=16016)
+* [Order Replacement Certificates](https://www.glasgow.gov.uk/index.aspx?articleid=17039)
+* [More from Registrars](https://www.glasgow.gov.uk/index.aspx?articleid=15898)
+## 
+[Parks and Leisure](https://www.glasgow.gov.uk/index.aspx?articleid=15899)
+icon for Parks and Leisure
+* [Parks and Gardens](https://www.glasgow.gov.uk/index.aspx?articleid=16576)
+* [Events](https://www.glasgow.gov.uk/index.aspx?articleid=17577)
+* [Libraries and Sports Facilities](https://www.glasgow.gov.uk/index.aspx?articleid=17035)
+* [More from Parks and Leisure](https://www.glasgow.gov.uk/index.aspx?articleid=15899)
+## 
+[Social Care and Health](https://www.glasgow.gov.uk/index.aspx?articleid=15900)
+icon for Social Care and Health
+* [Children and Families](https://www.glasgow.gov.uk/index.aspx?articleid=17032)
+* [Adults and Older People](https://www.glasgow.gov.uk/index.aspx?articleid=17033)
+* [Blue Badge (Disabled Parking)](https://www.glasgow.gov.uk/index.aspx?articleid=18546)
+* [More from Social Care and Health](https://www.glasgow.gov.uk/index.aspx?articleid=15900)
+## 
+[Services in My Area](https://www.glasgow.gov.uk/index.aspx?articleid=15901)
+icon for Services in My Area
+* [Interactive Maps](https://www.glasgow.gov.uk/index.aspx?articleid=18405)
+* [My Councillor](https://www.glasgow.gov.uk/index.aspx?articleid=17124)
+* [George Square Webcam](https://www.glasgow.gov.uk/index.aspx?articleid=18563)
+* [More from Services in My Area](https://www.glasgow.gov.uk/index.aspx?articleid=15901)
+## 
+[More Services](https://www.glasgow.gov.uk/index.aspx?articleid=15903)
+icon for More Services
+* [Environmental Health](https://www.glasgow.gov.uk/index.aspx?articleid=17172)
+* [Housing Services](https://www.glasgow.gov.uk/index.aspx?articleid=16164)
+* [All Public Processions](https://www.glasgow.gov.uk/index.aspx?articleid=18520)
+* [More from More Services](https://www.glasgow.gov.uk/index.aspx?articleid=15903)
+![Sustainability](https://www.glasgow.gov.uk/media/image/0/r/SG-Banner---Web-v2_(002).jpg)
+[Sustainable Glasgow](https://www.glasgow.gov.uk/index.aspx?articleid=18318)
+## [News and Events](https://www.glasgow.gov.uk/index.aspx?articleid=16159)
+* [Council to enter into discussions with local community group on running of synthetic pitch and pavilion in Springburn Park](https://www.glasgow.gov.uk/index.aspx?articleid=30077)
+* [Queenslie site to be sold by council, allowing the creation of 100 new jobs at city company](https://www.glasgow.gov.uk/index.aspx?articleid=30076)
+* [Glasgow Council Supports Ban on Sale of Single-Use Vapes](https://www.glasgow.gov.uk/index.aspx?articleid=30072)
+* [Landmark Sighthill Bridge over the M8 soon to open to the public](https://www.glasgow.gov.uk/index.aspx?articleid=30064)
+* [Next design phase of George Square project unveiled](https://www.glasgow.gov.uk/index.aspx?articleid=30049)
+* [Action Plan and new powers call to drive the essential repurposing of properties in Glasgow](https://www.glasgow.gov.uk/index.aspx?articleid=30047)
+* [Work soon to begin on Holland Street Avenue in Glasgow city centre](https://www.glasgow.gov.uk/index.aspx?articleid=30040)
+* [More from News and Events ...](https://www.glasgow.gov.uk/index.aspx?articleid=16159)
+A to Z:
+* [A](https://www.glasgow.gov.uk/index.aspx?articleid=17052)
+* [B](https://www.glasgow.gov.uk/index.aspx?articleid=17053)
+* [C](https://www.glasgow.gov.uk/index.aspx?articleid=17054)
+* [D](https://www.glasgow.gov.uk/index.aspx?articleid=17055)
+* [E](https://www.glasgow.gov.uk/index.aspx?articleid=17056)
+* [F](https://www.glasgow.gov.uk/index.aspx?articleid=17057)
+* [G](https://www.glasgow.gov.uk/index.aspx?articleid=17058)
+* [H](https://www.glasgow.gov.uk/index.aspx?articleid=17059)
+* [I](https://www.glasgow.gov.uk/index.aspx?articleid=17060)
+* [J](https://www.glasgow.gov.uk/index.aspx?articleid=17061)
+* [K](https://www.glasgow.gov.uk/index.aspx?articleid=17062)
+* [L](https://www.glasgow.gov.uk/index.aspx?articleid=17063)
+* [M](https://www.glasgow.gov.uk/index.aspx?articleid=17064)
+* [N](https://www.glasgow.gov.uk/index.aspx?articleid=17065)
+* [O](https://www.glasgow.gov.uk/index.aspx?articleid=17066)
+* [P](https://www.glasgow.gov.uk/index.aspx?articleid=17067)
+* [Q](https://www.glasgow.gov.uk/index.aspx?articleid=17076)
+* [R](https://www.glasgow.gov.uk/index.aspx?articleid=17077)
+* [S](https://www.glasgow.gov.uk/index.aspx?articleid=17074)
+* [T](https://www.glasgow.gov.uk/index.aspx?articleid=17075)
+* [U](https://www.glasgow.gov.uk/index.aspx?articleid=17072)
+* [V](https://www.glasgow.gov.uk/index.aspx?articleid=17073)
+* [W](https://www.glasgow.gov.uk/index.aspx?articleid=17071)
+* [X](https://www.glasgow.gov.uk/index.aspx?articleid=17070)
+* [Y](https://www.glasgow.gov.uk/index.aspx?articleid=17069)
+* [Z](https://www.glasgow.gov.uk/index.aspx?articleid=17068)
+Council Services
+* [Council Tax/Benefits](https://www.glasgow.gov.uk/index.aspx?articleid=15892)
+* [Bins and Recycling](https://www.glasgow.gov.uk/index.aspx?articleid=15893)
+* [Schools and Learning](https://www.glasgow.gov.uk/index.aspx?articleid=15894)
+* [My Council](https://www.glasgow.gov.uk/index.aspx?articleid=15902)
+* [Roads and Parking](https://www.glasgow.gov.uk/index.aspx?articleid=15895)
+* [Business](https://www.glasgow.gov.uk/index.aspx?articleid=15896)
+* [Planning and Building](https://www.glasgow.gov.uk/index.aspx?articleid=15897)
+* [Registrars](https://www.glasgow.gov.uk/index.aspx?articleid=15898)
+* [Parks and Leisure](https://www.glasgow.gov.uk/index.aspx?articleid=15899)
+* [Social Care and Health](https://www.glasgow.gov.uk/index.aspx?articleid=15900)
+* [Services in My Area](https://www.glasgow.gov.uk/index.aspx?articleid=15901)
+* [More Services](https://www.glasgow.gov.uk/index.aspx?articleid=15903)
+* ![Better Connected](https://www.glasgow.gov.uk/media/image/0/j/betterconnectedplus-logo-ratingthree-stars-colour2.jpg)
+* [Accessibility](https://www.glasgow.gov.uk/index.aspx?articleid=17111 "Accessibility")
+* [Contact Us](https://www.glasgow.gov.uk/index.aspx?articleid=17112 "Contact Us")
+* [Cookies](https://www.glasgow.gov.uk/index.aspx?articleid=18011 "Cookies")
+* [Privacy](https://www.glasgow.gov.uk/index.aspx?articleid=22066 "Privacy statement for Glasgow City Council and our Arms Length External Organisations ")
+* [Vacancies](https://www.glasgow.gov.uk/index.aspx?articleid=22983 "Vacancies")
+* © Glasgow City Council
+* [![Facebook : This link opens in a new window](https://www.glasgow.gov.uk/media/image/3/s/Footer_FacebookPage1.gif)](https://www.facebook.com/GlasgowCC "Glasgow City Council is not responsible for the content of third party web sites : This link opens in a new window")
+* [![Twitter : This link opens in a new window](https://www.glasgow.gov.uk/media/image/1/i/twitter.jpg)](http://twitter.com/glasgowcc "Glasgow City Council is not responsible for the content of third party web sites : This link opens in a new window")
+* [![You Tube : This link opens in a new window](https://www.glasgow.gov.uk/media/image/p/a/Youtube.gif)](http://www.youtube.com/glasgowcitycouncil "Glasgow City Council is not responsible for the content of third party web sites : This link opens in a new window")
+* [![Flickr : This link opens in a new window](https://www.glasgow.gov.uk/media/image/g/b/Flickr.gif)](http://www.flickr.com/GlasgowCC "Glasgow City Council is not responsible for the content of third party web sites : This link opens in a new window")
