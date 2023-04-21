@@ -1,3 +1,0 @@
-
-Please wait...
-![](rmd_resources/rmd_loader.gif)

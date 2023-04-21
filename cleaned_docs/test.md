@@ -1,1 +1,0 @@
-asthma is a type of respiritory disease

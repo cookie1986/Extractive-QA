@@ -1,2 +1,0 @@
-
-Severe asthma tool

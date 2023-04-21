@@ -32,13 +32,10 @@ def get_top_n_docs(query: str, n: int = 3):
     # rank the documents based on their cosine similarity scores
     ranking = np.argsort(cosine_similarities[0])[::-1][:n]
 
-    # print("Document ranking (by index):", ranking)
-
     # get the top n documents
     for i in range(n):
         idx = ranking[i]
         file_path = os.path.join(doc_filepath, doc_filenames[idx])
-        print(file_path)
         with open(file_path, 'r') as file:
             content = file.read()
             top_n_docs.append(content)
