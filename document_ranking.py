@@ -23,7 +23,7 @@ def get_top_n_docs(query: str, n: int = 3):
 
     top_n_docs = []
 
-    # compute the TF-IDF score for the query
+    # compute the query embedding
     query_vector = vectorizer.transform([query])
 
     # compute the cosine similarity between the query and each document

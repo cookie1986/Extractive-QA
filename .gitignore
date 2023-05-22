@@ -5,3 +5,4 @@ notes.txt
 test_docs/
 __pycache__/
 .DS_Store
+cleaned_docs/

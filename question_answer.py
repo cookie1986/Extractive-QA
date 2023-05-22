@@ -11,7 +11,7 @@ def extract_answer(question: str, context_docs: List):
     answers = []
     for doc in context_docs:
         answers.append(question_answer(question=question, context=doc))
-    print(answers)
+    # print(answers)
     answer_confidence_scores = [ans['score'] for ans in answers]
     
     # find the answer with the highest score
