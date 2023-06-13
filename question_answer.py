@@ -2,7 +2,7 @@ from typing import List
 import numpy as np
 from transformers import pipeline
 
-model_checkpoint = "distilbert-base-cased-distilled-squad"
+model_checkpoint = "deepset/tinyroberta-squad2"
 question_answer = pipeline("question-answering", model=model_checkpoint)
 
 def extract_answer(question: str, context_docs: List):
