@@ -7,3 +7,7 @@ __pycache__/
 .DS_Store
 cleaned_docs/
 docs/
+filtered_docs/
+test.py
+cleaned_markdown/
+bad_files/
