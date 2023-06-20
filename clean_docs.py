@@ -104,7 +104,7 @@ for file in markdown_files:
     # lowercasing
     clean_text = clean_text.lower()
     # special characters removal
-    clean_text = re.sub(r'[^\w\s\t]', ' ', clean_text)
+    clean_text = re.sub(r'[^\w\s\t.,!?@]', ' ', clean_text)
 
     # remove excessive newlines
     clean_text = re.sub(r'\n\s*\n', '\n\n', clean_text)

@@ -23,9 +23,10 @@ def preprocess(text):
 
 
 # Determine which topics are relevant
-relevant_topics = {0, 1, 3}
+relevant_topics = {1,2,3}
 
 filtered_docs = []
+filtered_doc_names = []
 for file in os.listdir(clean_docs_filepath):
     with open(os.path.join(clean_docs_filepath, file)) as f:
         doc = f.read()
@@ -41,9 +42,10 @@ for file in os.listdir(clean_docs_filepath):
     if doc_main_topics & relevant_topics:
         # add the document to the list of filtered documents
         filtered_docs.append(doc)
+        filtered_doc_names.append(file)
     
 
 # write filtered documents to the output directory
-for i, doc in enumerate(filtered_docs):
-    with open(os.path.join(filtered_docs_filepath, f'doc_{i}.md'), 'w') as f:
+for doc, name in zip(filtered_docs, filtered_doc_names):
+    with open(os.path.join(filtered_docs_filepath, name), 'w') as f:
         f.write(doc)
