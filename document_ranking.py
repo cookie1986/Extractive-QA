@@ -20,7 +20,6 @@ def get_top_n_docs(query: str, n: int = 3):
 
     # store cleaned doc filenames in a list
     doc_filenames = [f for f in os.listdir(doc_filepath) if os.path.isfile(os.path.join(doc_filepath, f))]
-
     top_n_docs = []
 
     # compute the query embedding
