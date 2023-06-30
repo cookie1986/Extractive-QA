@@ -1,0 +1,30 @@
+A bronchodilator or broncholytic (although the latter occasionally includes secretory inhibition as well) is a substance that dilates the bronchi and bronchioles, decreasing resistance in the respiratory airway and increasing airflow to the lungs. Bronchodilators may be originating naturally within the body, or they may be medications administered for the treatment of breathing difficulties, usually in the form of inhalers. They are most useful in obstructive lung diseases, of which asthma and chronic obstructive pulmonary disease are the most common conditions. Although this remains somewhat controversial, they might be useful in bronchiolitis and bronchiectasis. They are often prescribed but of unproven significance in restrictive lung diseases.
+
+Bronchodilators are either short-acting or long-acting. Short-acting medications provide quick or "rescue" relief from acute bronchoconstriction. Long-acting bronchodilators help to control and prevent symptoms. The three types of prescription bronchodilating drugs are beta2-adrenergic agonists (short- and long-acting), anticholinergics (short- and long-acting), and theophylline (long-acting).
+
+These are quick-relief or "rescue" medications that provide quick, temporary relief from asthma symptoms or flare-ups. These medications usually take effect within 20 minutes or less, and can last from four to six hours. These inhaled medications are best for treating sudden and severe or new asthma symptoms. Taken 15 to 20 minutes ahead of time, these medications can also prevent asthma symptoms triggered by exercise or exposure to cold air. Some short-acting β-agonists, such as salbutamol, are specific to the lungs; they are called β2-adrenergic agonists and can relieve bronchospasms without unwanted cardiac side effects of nonspecific β-agonists (for example, ephedrine or epinephrine). Patients who regularly or frequently need to take a short-acting β2-adrenergic agonist should consult their doctor, as such usage indicates uncontrolled asthma, and their routine medications may need adjustment.[citation needed]
+
+These are long-term medications taken routinely in order to control and prevent bronchoconstriction. They are not intended for fast relief. These medications may take longer to begin working, but relieve airway constriction for up to 12 hours.
+Commonly taken twice a day with an anti-inflammatory medication, they maintain open airways and prevent asthma symptoms, particularly at night.[citation needed]
+
+Salmeterol and formoterol are examples of these.
+
+Some examples of anticholinergics are tiotropium (Spiriva) and ipratropium bromide.[citation needed]
+
+Tiotropium is a long-acting, 24-hour, anticholinergic bronchodilator used in the management of chronic obstructive pulmonary disease (COPD).
+
+Only available as an inhalant, ipratropium bromide is used in the treatment of asthma and COPD. As a short-acting anticholinergic, it improves lung function and reduces the risk of exacerbation in people with symptomatic asthma. However, it will not stop an asthma attack already in progress. Because it has no effect on asthma symptoms when used alone, it is most often paired with a short-acting β2-adrenergic agonist. While it is considered a relief or rescue medication, it can take a full hour to begin working. For this reason, it plays a secondary role in acute asthma treatment. Dry throat is the most common side effect. If the medication gets in contact with the eyes, it may cause blurred vision for a brief time.
+
+The use of anticholinergics in combination with short-acting β2-adrenergic agonists has been shown to reduce hospital admissions in children and adults with acute asthma exacerbations.
+
+Available in oral and injectable form, theophylline is a long-acting bronchodilator that prevents asthma episodes. It belongs to the chemical class methylxanthines (along with caffeine). It is prescribed in severe cases of asthma or those that are difficult to control. It must be taken 1–4 times daily, and doses cannot be missed. Blood tests are required to monitor therapy and to indicate when dosage adjustment is necessary. Side effects can include nausea, vomiting, diarrhea, stomach or headache, rapid or irregular heart beat, muscle cramps, nervous or jittery feelings, and hyperactivity. These symptoms may signal the need for an adjustment in medication. It may promote acid reflux, also known as GERD, by relaxing the lower esophageal sphincter muscle. Some medications, such as seizure and ulcer medications and antibiotics containing erythromycin, can interfere with the way theophylline works. Coffee, tea, colas, cigarette-smoking, and viral illnesses can all affect the action of theophylline and change its effectiveness. A physician should monitor dosage levels to meet each patient's profile and needs.
+
+Additionally some psychostimulant drugs that have an amphetamine like mode of action, such as amphetamine, methamphetamine, and cocaine, have bronchodilating effects and were used often for asthma due to the lack of effective β2-adrenergic agonists for use as bronchodilator, but are now rarely, if ever, used medically for their bronchodilatory effects.
+
+The bronchodilators are divided into short- and long-acting groups. Short-acting bronchodilators are used for relief of bronchoconstriction, while long-acting bronchodilators are predominantly used for prevention.
+
+Short-acting bronchodilators include:
+
+Long-acting bronchodilators include
+
+From among 6000 compounds that relax the smooth muscle cells of the lungs' airways and open up the airways in asthmatic lung tissues, researchers have identified a drug called TSG12. TSG12 is a specific transgelin-2 (TG2)-agonist that relaxes airway smooth muscle cells and reduces asthmatic pulmonary resistance. The authors claim that "TSG12 is both non-toxic and more effective in reducing pulmonary resistance than current bronchodilators and could be a promising therapeutic approach for treating asthma without losing effectiveness over time."

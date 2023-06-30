@@ -1,0 +1,15 @@
+A spacer is a device used to increase the ease of administering aerosolized medication from a metered-dose inhaler (MDI). It adds space in the form of a tube or "chamber" between the mouth and canister of medication. Most spacers have a one-way valve that allows the person to inhale the medication while inhaling and exhaling normally; these are often referred to as valved holding chambers (VHC).
+
+AeroChamber, InspirEase and Volumatic are examples of a spacer.
+
+Spacers help those unable to breathe deeply, as well as those unable to synchronize their breathing so that they inhale just as the MDI is actuated; the latter is known as poor "hand-lung coordination".
+
+The term spacer is often used to refer to any tube-like MDI add-on device. Some spacers (e.g., InspirEase) utilize a collapsing bag design to provide visual feedback that successful inspiration is taking place. Another type (e.g., Volumatic) is transparent plastic in two vase-shaped parts that come together forming a barrel shape. Valved holding chambers (VHC) are commonly called "spacers" as well.
+
+To use an inhaler without a spacer requires coordinating several actions in a set order (pressing down on the inhaler, breathing in deeply as soon as the medication is released, holding your breath, exhaling), and not everyone is able to master this sequence. Use of a spacer, particularly a valved holding chamber, avoids such timing issues. Valved holding chambers are particularly useful for children, people with severe shortness of breath, and those with cognitive impairment.
+
+After removing the MDI's cap, the MDI mouthpiece is inserted into the back of the spacer. The front part of the chamber is closed off by either a mouthpiece or a mask that covers the mouth and nose. To administer the medication, the MDI is depressed once, resulting in the release of one dose of medication. The medication from the MDI is then suspended in the spacer's chamber while the person inhales the aerosolized medication by breathing in and out. The exhaled breath exits the device through the valves rather than entering the chamber. Some spacers are equipped with a whistle, which sounds if the person is inhaling too quickly.
+
+Spacers slow down the speed of the aerosol coming from the inhaler, meaning that less of the asthma drug impacts on the back of the mouth and somewhat more may get into the lungs. In the case of corticosteroids, less residue in the mouth reduces the risk of developing oral candidiasis, a yeast infection. Rinsing the mouth after application of inhaled steroids has a similar effect.
+
+Whereas people with asthma can keep an MDI close-by at all times, the bulkiness of spacers can limit their use outside the home. Some research suggests that homemade spacers, using plastic bottles, may be as effective as commercially made versions, but homemade versions may have more variability.
